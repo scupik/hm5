@@ -9,13 +9,13 @@
 .header-list {
     font-size: 25px;
 }
-.header-item1 {
+.header-item_1 {
     color: green;
 }
-.header-item2 {
+.header-item_2 {
     font-size: 15px;
 }
-.header-item3:hover {
+.header-item_3:hover {
     color: red;
 }
 .header-item {
