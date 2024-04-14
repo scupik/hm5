@@ -1,3 +1,4 @@
+/* 
 .header {
 }
 .subtitle-top {
@@ -22,4 +23,38 @@
 }
 .subtitle {
     color: blue;
+} */
+/* .section {
+    font-size: 25px;
+}
+.item {
+}
+* {
+color: brown;
+}
+p {
+    color: green;
+}
+.title {
+
+} */
+h2 {
+    color: red;
+}
+#text {
+    font-size: 30px;
+}
+ul h2 {
+    color: green;
+}
+.item:first-child {
+    color: green;
+}
+.item:nth-child(2) {
+    font-size: 10px;
+}
+
+.item:nth-child(3):hover {
+    color: red;
+    cursor: pointer;
 }
